@@ -41,6 +41,7 @@ Cybersecurity Certification - Google Professional Education
 Contact Information -->
 
 [LinkedIn](www.linkedin.com/in/laurennorthcut)<br>
+
 Feel free to explore the different sections of this repository to gain insights into my capabilities as a cybersecurity analyst. If you have any inquiries or collaboration opportunities, please do not hesitate to reach out.
 
 Thank you for visiting!
