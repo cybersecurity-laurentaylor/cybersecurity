@@ -24,7 +24,8 @@ Compliance: Familiar with regulatory frameworks such as GDPR, HIPAA, and NIST, e
 
 ## Projects
 
-Security Audit <br>
+Security Audit 
+
 This comprehensive example evaluation aims to identify vulnerabilities, potential risks, and compliance gaps, enabling organizations to enhance their security posture, address weaknesses, and ensure adherence to industry standards and regulatory requirements. 
 
 <!--[Project Name 2]
@@ -32,7 +33,8 @@ This comprehensive example evaluation aims to identify vulnerabilities, potentia
 
 ## Certifications
 
-FullStack MERN Certification - Georgia Institute of Technology <br>
+FullStack MERN Certification - Georgia Institute of Technology 
+
 Cybersecurity Certification - Google Professional Education 
 
 <!--Education
@@ -40,7 +42,7 @@ Cybersecurity Certification - Google Professional Education
 [Degree Earned, e.g., Bachelor of Science in Cybersecurity] - [University Name, Graduation Year]
 Contact Information -->
 
-[LinkedIn](www.linkedin.com/in/laurennorthcut)<br>
+[LinkedIn](www.linkedin.com/in/laurennorthcut)
 
 Feel free to explore the different sections of this repository to gain insights into my capabilities as a cybersecurity analyst. If you have any inquiries or collaboration opportunities, please do not hesitate to reach out.
 
